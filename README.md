@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">A passionate Front-end From Turkey</h3>
 
 - 🔭 I’m currently working on [Mersin-K128-JavaScript-React-Bootcamp-Getir-Clone](https://github.com/brkeozbk/Mersin-K128-JavaScript-React-Bootcamp-Getir-Clone)
 
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/berkeozbek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkeozbek/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15926689/berke-%c3%96zbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15926689/berke-%c3%96zbek" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/brkeozbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/brkeozbk" height="30" width="40" /></a>
 </p>
 
